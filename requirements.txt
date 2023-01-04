@@ -1,0 +1,10 @@
+beautifulsoup4==4.11.1 
+bs4==0.0.1      
+Flask==2.1.2      
+nltk==3.4        
+spacy==2.2.0     
+sumy==0.7.0      
+thinc==7.1.1     
+urllib3==1.24.1 
+gensim==3.6.0      
+gensim-sum-ext==0.1.2    

@@ -1,0 +1,3 @@
+Robotics, design, construction, and use of machines (robots) to perform tasks done traditionally by human beings.
+A typical example is a humanoid robot, the building of which has been regarded as the final target of robotics for many years, especially in Japan where many robotics researchers have been struggling with making humanoid robots work in our society.
+Pfeifer and Scheier's book from 1999 entitled Understanding Intelligence shows a constructive approach to understanding intelligence with a variety of robots from the viewpoint of embodied cognitive science.
